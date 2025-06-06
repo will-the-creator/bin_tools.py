@@ -1,2 +1,2 @@
 # how to veiw files
-linux: feh --force-aliasing --scale-down <file>
+linux: feh --force-aliasing --scale-down /file/
